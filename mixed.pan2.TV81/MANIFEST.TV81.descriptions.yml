@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+# filename_in_this_repository: description
+glysp.mixed.pan2.TV81.clust.tsv: pangene sets, with each line containing all genes for one allelic set.
+glysp.mixed.pan2.TV81.hsh.tsv: pangene sets, in a two-column format with the set ID in the first column and genes in the second.
+

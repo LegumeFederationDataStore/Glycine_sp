@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+# filename_in_this_repository: previous_name
+glysp.mixed.pan1.R1MT.clust.tsv: soy_pangene_dag.sets.tsv
+glysp.mixed.pan1.R1MT.hsh.tsv: soy_pangene_dag.clst.tsv 
+

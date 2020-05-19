@@ -1,0 +1,6 @@
+%YAML 1.2
+---
+# filename_in_this_repository: previous_name
+glysp.mixed.pan2.TV81.clust.tsv: glysp.cl8.pan1.pangene_8annot_clust.tsv
+glysp.mixed.pan2.TV81.hsh.tsv: glysp.cl8.pan1.pangene_8annot_hsh.txt
+
