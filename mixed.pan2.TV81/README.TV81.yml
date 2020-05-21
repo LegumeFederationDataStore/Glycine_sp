@@ -55,5 +55,6 @@ citations: none
 
 file_transformation: 
   - 2020-05-18 Creation of initial data collection
+  - 2020-05-20 Prefix pangene identifiers with glysp.mixed.pan2.
 
 changes: 
